@@ -9,4 +9,4 @@
 
 
 ---
-[Caesar Cipher]: https://github.com/mansijmaharzn/crypto-lab/lab-1
+[Caesar Cipher]: https://github.com/mansijmaharzn/crypto-lab/tree/main/lab-1
