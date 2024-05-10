@@ -1,11 +1,16 @@
 # Cryptography Labs
 > By: Mansij Maharjan
 
-### Table of Content
+## Table of Content
 |  **S.No.**  |     **Title**     |
 |:-----------:|:-----------------:|
 |    **1**    |  [Caesar Cipher]  |
 
+
+## Downloading
+```
+git clone https://github.com/mansijmaharzn/crypto-lab/
+```
 
 
 ---
